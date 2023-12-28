@@ -101,3 +101,11 @@ Creating libraries in C# involves encapsulating reusable code into a separate as
 
 NuGet is a package manager for C# and .NET projects. It helps developers manage dependencies by allowing them to easily install, update, and remove packages that contain reusable code and resources. NuGet packages are distributed through package feeds, and developers can use tools like the Package Manager Console in Visual Studio or the .NET CLI to work with them. This simplifies the process of integrating third-party libraries and components into C# projects.
 
+# Testing Frameworks in C#:
+
+ - NUnit: A mature and widely used framework for writing unit tests in C#. It provides a simple syntax and a rich set of features, including assertion methods, mocking frameworks, and test runners.
+
+ - xUnit: A modern and popular testing framework for C#, known for its flexibility and extensibility. It offers a concise syntax, a variety of assertions, and integration with various build tools and IDEs.
+
+ - MSTest: A lightweight testing framework provided by Microsoft, specifically designed for .NET applications. It's easy to learn and use, and it integrates seamlessly with Visual Studio.
+
